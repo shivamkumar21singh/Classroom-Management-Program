@@ -1,0 +1,12 @@
+{
+    "teacher123": {
+      "password": "admin123"
+    },
+    "teacher456": {
+      "password": "password456"
+    },
+    "teacher789": {
+      "password": "secure789"
+    }
+  }
+  
